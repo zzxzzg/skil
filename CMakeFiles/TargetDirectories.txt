@@ -1,0 +1,3 @@
+/Users/yxwang/workspace/skil/CMakeFiles/rebuild_cache.dir
+/Users/yxwang/workspace/skil/CMakeFiles/edit_cache.dir
+/Users/yxwang/workspace/skil/CMakeFiles/Skil.dir
